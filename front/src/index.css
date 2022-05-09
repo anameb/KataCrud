@@ -1,0 +1,51 @@
+.navbar{
+    background-color: #3CB371;
+    margin: 10px;
+
+}
+
+#table{
+    background-color: #d88fd8;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+}
+
+.links:hover{
+    font-size: 20px;
+     transition: 1.2s;
+     color:#ff4500;
+     font-weight: 400;
+     
+     
+  }
+
+  .menu{
+      background-color: red;
+  }
+
+  .contenido{
+      justify-content: center;
+      text-align: center;
+  }
+
+  #nombrelista{
+      margin-left: 50px;
+      margin-top: 50px;
+  }
+  #btnlista{
+      width: 15%;
+  }
+
+  .tabletareas{
+      width: 70%;
+      margin-left: 15%;
+      margin-top: 20px;
+  }
+
+  .lista{
+      text-align: center;
+      justify-content: center;
+  }
